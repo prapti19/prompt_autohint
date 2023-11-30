@@ -1,0 +1,101 @@
+Iteration 0 
+ Predict whether Speaker 2's answer to Speaker 1 counts as a yes or as a no
+Some useful hints are: The general reason for determining whether Speaker 2's answer counts as a yes or no is based on the clarity and willingness expressed in their response. If Speaker 2's response is unclear or does not provide a clear indication of agreement or willingness, it can be considered a no. On the other hand, if Speaker 2's response implies agreement or willingness to help, it can be considered a yes.
+Given input: <INPUT>
+Does Speaker 2's answer mean yes or no?
+Put your one-word answer choosing from the previously stated two options within tag <Ans> and </Ans>. The one word answer should be necassarily between the tags. 
+ Wrong Ans: 196 
+ Correct Ans: 197 
+ Not got: 0 
+ Total time : 2388.417029619217 
+ Iteration 1 
+ Predict whether Speaker 2's answer to Speaker 1 counts as a yes or as a no
+Some useful hints are: The general reason for the expected output in all these cases is that Speaker 2's response implies agreement or affirmation with Speaker 1's statement or question, even if it is not explicitly stated.
+Given input: <INPUT>
+Does Speaker 2's answer mean yes or no?
+Put your one-word answer choosing from the previously stated two options within tag <Ans> and </Ans>. The one word answer should be necassarily between the tags. 
+ Wrong Ans: 196 
+ Correct Ans: 197 
+ Not got: 0 
+ Total time : 4784.029580354691 
+ Iteration 2 
+ Predict whether Speaker 2's answer to Speaker 1 counts as a yes or as a no
+Some useful hints are: The expected output in all cases is "yes" because Speaker 2's responses do not explicitly confirm or deny the statements made by Speaker 1. Instead, Speaker 2's responses provide indirect or ambiguous information that can be interpreted as a positive response.
+Given input: <INPUT>
+Does Speaker 2's answer mean yes or no?
+Put your one-word answer choosing from the previously stated two options within tag <Ans> and </Ans>. The one word answer should be necassarily between the tags. 
+ Wrong Ans: 196 
+ Correct Ans: 196 
+ Not got: 1 
+ Total time : 7577.469461679459 
+ Iteration 3 
+ Predict whether Speaker 2's answer to Speaker 1 counts as a yes or as a no
+Some useful hints are: The general reason for the expected output in all these cases is that Speaker 2's response indicates agreement, affirmation, or a positive outcome, suggesting that their answer counts as a "yes" in response to Speaker 1's question.
+Given input: <INPUT>
+Does Speaker 2's answer mean yes or no?
+Put your one-word answer choosing from the previously stated two options within tag <Ans> and </Ans>. The one word answer should be necassarily between the tags. 
+ Wrong Ans: 196 
+ Correct Ans: 197 
+ Not got: 0 
+ Total time : 8721.32384109497 
+ Iteration 4 
+ Predict whether Speaker 2's answer to Speaker 1 counts as a yes or as a no
+Some useful hints are: The expected output for all the examples is "yes" because Speaker 2's responses provide direct affirmation, indicate enjoyment, and imply a positive reaction.
+Given input: <INPUT>
+Does Speaker 2's answer mean yes or no?
+Put your one-word answer choosing from the previously stated two options within tag <Ans> and </Ans>. The one word answer should be necassarily between the tags. 
+ Wrong Ans: 196 
+ Correct Ans: 197 
+ Not got: 0 
+ Total time : 9853.09649515152 
+ Iteration 5 
+ Predict whether Speaker 2's answer to Speaker 1 counts as a yes or as a no
+Some useful hints are: The expected output for all the examples is "yes" because Speaker 2's responses indicate a positive or enthusiastic agreement, alignment with a positive reaction, or an idiomatic expression that implies irritation or annoyance.
+Given input: <INPUT>
+Does Speaker 2's answer mean yes or no?
+Put your one-word answer choosing from the previously stated two options within tag <Ans> and </Ans>. The one word answer should be necassarily between the tags. 
+ Wrong Ans: 196 
+ Correct Ans: 197 
+ Not got: 0 
+ Total time : 12229.619963407516 
+ Iteration 6 
+ Predict whether Speaker 2's answer to Speaker 1 counts as a yes or as a no
+Some useful hints are: The expected output for all the examples is "yes" because Speaker 2's responses do not provide a clear indication of agreement or disagreement with Speaker 1's statements. Instead, Speaker 2's responses offer additional information or express confidence without directly confirming or denying the statements made by Speaker 1.
+Given input: <INPUT>
+Does Speaker 2's answer mean yes or no?
+Put your one-word answer choosing from the previously stated two options within tag <Ans> and </Ans>. The one word answer should be necassarily between the tags. 
+ Wrong Ans: 196 
+ Correct Ans: 197 
+ Not got: 0 
+ Total time : 13995.170152902603 
+ Iteration 7 
+ Predict whether Speaker 2's answer to Speaker 1 counts as a yes or as a no
+Some useful hints are: The general reason for the expected output in all these cases is that Speaker 2's response either provides a positive affirmation, an explanation, or confirms the likelihood mentioned by Speaker 1, indicating agreement and therefore a "yes" response.
+Given input: <INPUT>
+Does Speaker 2's answer mean yes or no?
+Put your one-word answer choosing from the previously stated two options within tag <Ans> and </Ans>. The one word answer should be necassarily between the tags. 
+ Wrong Ans: 196 
+ Correct Ans: 197 
+ Not got: 0 
+ Total time : 15760.423030853271 
+ Iteration 8 
+ Predict whether Speaker 2's answer to Speaker 1 counts as a yes or as a no
+Some useful hints are: The expected output is "yes" in all cases because Speaker 2's responses indicate trust or belief in Speaker 1's statement, providing a reason for their actions, or expressing a desire for answers.
+Given input: <INPUT>
+Does Speaker 2's answer mean yes or no?
+Put your one-word answer choosing from the previously stated two options within tag <Ans> and </Ans>. The one word answer should be necassarily between the tags. 
+ Wrong Ans: 196 
+ Correct Ans: 197 
+ Not got: 0 
+ Total time : 18147.233971595764 
+ Iteration 9 
+ Predict whether Speaker 2's answer to Speaker 1 counts as a yes or as a no
+Some useful hints are: The general reason for the expected output in all these cases is that Speaker 2's response provides information or confirmation that aligns with the question asked by Speaker 1. Speaker 2's answers contain phrases or details that indicate a positive or affirmative response to the question.
+Given input: <INPUT>
+Does Speaker 2's answer mean yes or no?
+Put your one-word answer choosing from the previously stated two options within tag <Ans> and </Ans>. The one word answer should be necassarily between the tags. 
+ Wrong Ans: 196 
+ Correct Ans: 197 
+ Not got: 0 
+ Total time : 20526.310986042023 
+ 
