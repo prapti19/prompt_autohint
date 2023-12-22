@@ -1,4 +1,4 @@
-# Automatic Prompt Optimisation
+# Automatic Prompt Optimisation for Large Language Models
 
 ## Description
 1. We have reproduced the algorithm of [AutoHint](https://arxiv.org/abs/2307.07415) for automatic prompt optimisation for BBII 2 tasks: Epistemic Reasoning and Hyperbaton
