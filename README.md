@@ -34,3 +34,9 @@
 ```
 
 ## Results
+![Results for baseline reproduction](images/baseline-reproduction.png)
+![Results for confidence-based sampling](images/confidence-based.png)
+![Results for prediction-based sampling](images/prediction-based.png)
+![Results for improved-fewshot](images/improved-fewshot.png)
+
+
