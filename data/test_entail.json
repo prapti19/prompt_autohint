@@ -1,0 +1,2102 @@
+[
+    {
+        "input": "Premise: Evelyn suspects that Robert remembers that four cyclists are racing on an indoor racetrack all wearing the same red, white, and blue uniforms. Hypothesis: Evelyn suspects that four cyclists are racing on an indoor racetrack all wearing the same red, white, and blue uniforms.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Michael understands that William suspects that many people who appear to be Asian stand in line at a train station waiting patiently for the next train. Hypothesis: William suspects that many people who appear to be Asian stand in line at a train station waiting patiently for the next train.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Abigail believes that Charles thinks that a large number of people are watching men dressed in kilts, one of whom has thrown a long pole. Hypothesis: Charles thinks that a large number of people are watching men dressed in kilts, one of whom has thrown a long pole.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Joseph sees that Ava assumes that there is a large group of people standing together mostly wearing Canada symbols. Hypothesis: Ava assumes that there is a large group of people standing together mostly wearing Canada symbols.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Emma believes that a girl in a hat has some sort of insect on her finger. Hypothesis: Emma believes that the girl is in contact with an insect.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: John thinks that Abigail assumes that a group of girls in black and white spotted skirts cross a street. Hypothesis: John thinks that a group of girls in black and white spotted skirts cross a street.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Ava suspects that a woman wearing a blue and orange coat is sitting outside on a bench in front of a red background. Hypothesis: Isabella suspects that the woman wearing the coat is relaxing.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Richard remembers that James thinks that it is a march of people of different backgrounds all walking and one guy in a green shirt holds a flag. Hypothesis: James thinks that Richard remembers that it is a march of people of different backgrounds all walking and one guy in a green shirt holds a flag.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Richard sees that David believes that a woman in a red dress is walking on the sidewalk. Hypothesis: David believes that Richard sees that a woman in a red dress is walking on the sidewalk.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Evelyn believes that David believes that the festivities of the Latin celebration has brought many visitors and enthusiastic, colorful, performers to the city. Hypothesis: Evelyn believes that the festivities of the Latin celebration has brought many visitors and enthusiastic, colorful, performers to the city.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Evelyn suspects that Richard understands that a man wearing a black beret, black coat, and black gloves takes a picture in the middle of a crowd. Hypothesis: Richard understands that a man wearing a black beret, black coat, and black gloves takes a picture in the middle of a crowd.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: David thinks that a baby girl and little boy are standing next to a guitar and a drum. Hypothesis: Charlotte thinks that the girl is near an instrument.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Robert remembers that Charlotte assumes that a man wearing a purple cap, yellow snow goggles, a periwinkle jacket and red backpack moves quickly through powdery snow near a winter tree. Hypothesis: Charlotte assumes that Robert remembers that a man wearing a purple cap, yellow snow goggles, a periwinkle jacket and red backpack moves quickly through powdery snow near a winter tree.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: David thinks that John understands that a choir made up of varying ages of people are performing. Hypothesis: John understands that a choir made up of varying ages of people are performing.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: James understands that David assumes that a big black dog jumps in the air to catch the tennis ball in his mouth. Hypothesis: David assumes that a big black dog jumps in the air to catch the tennis ball in his mouth.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Sophia knows that a bike is parked against a window to a store called Winter Sport where inside some people sit next to a computer and an older woman stands in the background. Hypothesis: Sophia knows that there is a computer with people seated nearby and a woman standing nearby them inside Winter Sport, which is a store with a bike next to it.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: John remembers that David assumes that a child in a jeans jacket and shorts holding up a white dress as another darker-skinned child looks at it. Hypothesis: David assumes that a child in a jeans jacket and shorts holding up a white dress as another darker-skinned child looks at it.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: James thinks that Abigail knows that a man wearing a blue shirt and headphones around his neck raises his arm. Hypothesis: James thinks that a man wearing a blue shirt and headphones around his neck raises his arm.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: David assumes that a young boy sits curiously on a rock near the water, looking at his reflection. Hypothesis: John assumes that a kid is outside looking into the water.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: William believes that a woman with a blue jacket around her waist is sitting on the ledge of some stone ruins resting. Hypothesis: William believes that a woman sits on a ledge.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Amelia believes that Joseph suspects that a woman carrying a large package on her head walks in front of a building plastered with Portuguese posters advertising a concert. Hypothesis: Joseph suspects that a woman carrying a large package on her head walks in front of a building plastered with Portuguese posters advertising a concert.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: James suspects that a man is painting a city scene on a canvas in the street. Hypothesis: James suspects that a man is painting outside.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Olivia believes that William believes that the backs of a woman and her dog as they walk away from the camera with the dog on a red leash and her in a green tank top. Hypothesis: William believes that the backs of a woman and her dog as they walk away from the camera with the dog on a red leash and her in a green tank top.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Isabella sees that a group of attentive students are paying attention to a college lecture. Hypothesis: Isabella sees that a group of students are listening.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Isabella believes that Olivia assumes that a large brown dog and a small black dog stand near each other on a dirt patch surrounding by grass and weeds. Hypothesis: Isabella believes that a large brown dog and a small black dog stand near each other on a dirt patch surrounding by grass and weeds.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: James thinks that Isabella recognizes that a group of people on the bark, brightly lighten street, while one man with a gray hat holds a large colorful sign with arrows. Hypothesis: Isabella recognizes that a group of people on the bark, brightly lighten street, while one man with a gray hat holds a large colorful sign with arrows.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charles assumes that Isabella sees that a man is resting in a small stream with a hat over his head while the little waterfall is pouring in the background. Hypothesis: Charles assumes that a man is resting in a small stream with a hat over his head while the little waterfall is pouring in the background.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Emma believes that Charles remembers that a brown dog plays in a deep pile of snow. Hypothesis: Emma believes that a brown dog plays in a deep pile of snow.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Thomas understands that Isabella assumes that a guy with long hair is making a sand sculpture. Hypothesis: Isabella assumes that Thomas understands that a guy with long hair is making a sand sculpture.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: James sees that Richard believes that two silhouetted people paddle a canoe on the ocean during sunset. Hypothesis: Richard believes that James sees that two silhouetted people paddle a canoe on the ocean during sunset.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Isabella assumes that a young blond boy is eating cake with a spoon. Hypothesis: Isabella assumes that a little boy is eating cake.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Michael learns that Olivia assumes that a man is holding a cigarette outdoors in front of a blue wall with a sink on it. Hypothesis: Olivia assumes that Michael learns that a man is holding a cigarette outdoors in front of a blue wall with a sink on it.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: John knows that Abigail suspects that a man in tan pants is eating while sitting next to a plate and a pair of shoes. Hypothesis: Abigail suspects that a man in tan pants is eating while sitting next to a plate and a pair of shoes.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Joseph learns that Sophia thinks that a young barefoot girl wearing a helmet walks down a mossy covered fallen down tree. Hypothesis: Sophia thinks that Joseph learns that a young barefoot girl wearing a helmet walks down a mossy covered fallen down tree.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Richard thinks that an Asian young woman wearing a white shirt and black pants is holding a pink purse. Hypothesis: Ava thinks that the woman has a white shirt on.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Sophia assumes that Richard thinks that multiple men fill the scene, one in a white button up shirt using his cellphone, the others wearing pink, orange, and green shirts engaged in various activities in the background. Hypothesis: Sophia assumes that multiple men fill the scene, one in a white button up shirt using his cellphone, the others wearing pink, orange, and green shirts engaged in various activities in the background.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Ava assumes that a woman in jeans and a woman in shorts are petting a baby kangaroo. Hypothesis: Ava assumes that two woman are petting a animal.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Abigail suspects that Robert suspects that two men with black glasses are holding food, one appears to be eating. Hypothesis: Robert suspects that two men with black glasses are holding food, one appears to be eating.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Abigail believes that William suspects that a little girl with pointy pigtails is sitting in the sand on the beach. Hypothesis: Abigail believes that a little girl with pointy pigtails is sitting in the sand on the beach.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charles learns that Thomas believes that children are playing in the street with a toy. Hypothesis: Thomas believes that children are playing in the street with a toy.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Isabella understands that John assumes that two women stand in a kitchen and wipe down trays. Hypothesis: John assumes that two women stand in a kitchen and wipe down trays.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Ava learns that a young dark-haired woman with red sun visor holding an open white umbrella amidst a crowd of people. Hypothesis: Charlotte learns that a raven haired woman is seen by the crowd holding a white opened umbrella.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: John believes that Thomas suspects that a gymnastics performer is in mid-pose as she completes her jump. Hypothesis: John believes that a gymnastics performer is in mid-pose as she completes her jump.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Ava suspects that John thinks that there is a green trash truck in road with a person sweeping sidewalk. Hypothesis: Ava suspects that there is a green trash truck in road with a person sweeping sidewalk.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charlotte assumes that Olivia understands that a young boy is playing in the sandy water. Hypothesis: Charlotte assumes that a young boy is playing in the sandy water.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Evelyn understands that James thinks that a male guitar player is vigorously singing a not to a song in a poorly lit room. Hypothesis: James thinks that a male guitar player is vigorously singing a not to a song in a poorly lit room.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Evelyn assumes that Sophia believes that in a snowy residential environment, a man with a brown jacket and gray mustache and beard places a hand on a felled log while another man in a blue shirt is blurry on the right side of the photo. Hypothesis: Sophia believes that in a snowy residential environment, a man with a brown jacket and gray mustache and beard places a hand on a felled log while another man in a blue shirt is blurry on the right side of the photo.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Michael understands that Ava thinks that a man wearing a checkered shirt, cream suit and tennis shoes sits on a bench. Hypothesis: Ava thinks that a man wearing a checkered shirt, cream suit and tennis shoes sits on a bench.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Amelia understands that Charlotte believes that one child in black is walking down a hill covered in white snow while 2 children are on their knees. Hypothesis: Charlotte believes that Amelia understands that one child in black is walking down a hill covered in white snow while 2 children are on their knees.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Isabella believes that David assumes that two hikers are backpacking up a snow slope. Hypothesis: David assumes that two hikers are backpacking up a snow slope.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Robert assumes that William believes that little boy getting soaked playing an outdoor water game. Hypothesis: Robert assumes that little boy getting soaked playing an outdoor water game.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Thomas understands that crowd cheerleaders dressed in red, white, and blue smile as they pass out rolled up t-shirts to a full stadium of people. Hypothesis: Charles understands that cheerleaders pass out rolled up t shirts.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charlotte believes that four youth and an elder man and woman playing in water just up to the bottom of man's swim trunks. Hypothesis: Joseph believes that a group of people are playing in the water.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Taylor recognizes that Amelia believes that a dark-haired man is smiling while in a storage unit while four other men stand outside the unit watching. Hypothesis: Amelia believes that Taylor recognizes that a dark-haired man is smiling while in a storage unit while four other men stand outside the unit watching.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Robert suspects that Taylor suspects that two men spar in martial arts gear. Hypothesis: Robert suspects that two men spar in martial arts gear.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Sophia learns that a man wearing a striped shirt has a camera slung over his shoulder. Hypothesis: Sophia learns that the man with the stripped shirt is carrying a camera on his body.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Richard knows that Olivia assumes that the young girl is swinging on a swing, and her hair is flying out behind her. Hypothesis: Olivia assumes that the young girl is swinging on a swing, and her hair is flying out behind her.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Emma assumes that Amelia knows that a kid slides down a yellow slide into a swimming pool. Hypothesis: Emma assumes that a kid slides down a yellow slide into a swimming pool.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: William suspects that Isabella learns that two men are in blue life jackets and sitting on innertubes with \"Crusher\" written on them in the middle of a body of water. Hypothesis: Isabella learns that two men are in blue life jackets and sitting on innertubes with \"Crusher\" written on them in the middle of a body of water.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: William believes that John sees that there are 5 people on a stage without their face showing behind a red curtain. Hypothesis: John sees that there are 5 people on a stage without their face showing behind a red curtain.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Sophia thinks that John suspects that two small boys dressed in tuxedos sitting on a red carpeted floor. Hypothesis: Sophia thinks that two small boys dressed in tuxedos sitting on a red carpeted floor.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: David learns that James suspects that the African American man protests against unlawful sex. Hypothesis: James suspects that David learns that the African American man protests against unlawful sex.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: John thinks that Charlotte understands that a soccer team is standing on the field waiting for their time to make a move. Hypothesis: John thinks that a soccer team is standing on the field waiting for their time to make a move.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Sophia believes that Abigail sees that a man, boy and a white dog are looking at a display of postcards. Hypothesis: Sophia believes that a man, boy and a white dog are looking at a display of postcards.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: William understands that city street crowded with sports fans wearing orange. Hypothesis: Abigail understands that the sports fans are wearing a certain color.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Michael learns that Evelyn thinks that the blond young man who had been splattered with paint colors of blue, orange, and green held up his camera to take a picture. Hypothesis: Evelyn thinks that the blond young man who had been splattered with paint colors of blue, orange, and green held up his camera to take a picture.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Robert believes that a young blond child eats chocolate cake with his fingers while holding the spoon in their other hand. Hypothesis: Robert believes that a child has chocolate all over his hand.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Evelyn believes that Richard learns that a woman teaching a ballet class composed of small children holding colourful scarves. Hypothesis: Evelyn believes that a woman teaching a ballet class composed of small children holding colourful scarves.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Michael knows that Ava thinks that two men are sitting in a restaurant while one of them holds a piece of paper up to the camera. Hypothesis: Ava thinks that Michael knows that two men are sitting in a restaurant while one of them holds a piece of paper up to the camera.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Amelia thinks that Charlotte assumes that a young redheaded woman laughs at something. Hypothesis: Charlotte assumes that a young redheaded woman laughs at something.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Joseph suspects that Charlotte sees that two individuals dressed up like animals are posing for the camera. Hypothesis: Joseph suspects that two individuals dressed up like animals are posing for the camera.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Abigail assumes that a man in a red shirt and blue jeans is standing in front of a wall with other people's shadows in front of him on the pavement. Hypothesis: Abigail assumes that a man stands by a wall.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Abigail assumes that Taylor learns that two men are laying floor tiles in a doorway. Hypothesis: Abigail assumes that two men are laying floor tiles in a doorway.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: James sees that Charlotte assumes that a woman is taking a picture on the shoulders of another woman in cold weather. Hypothesis: Charlotte assumes that a woman is taking a picture on the shoulders of another woman in cold weather.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Richard thinks that John knows that oh yea these suckers cant catch me. Hypothesis: Richard thinks that oh yea these suckers cant catch me.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Robert suspects that three adults are working in a garden near a fence in the yard. Hypothesis: Robert suspects that the three adults are outside in the garden.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Richard suspects that a black dog is swimming with a ball in his mouth. Hypothesis: Isabella suspects that a black dog found a ball in the water and is bring it back to its owner.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charles suspects that James thinks that a young boy in a red shirt is wearing a helmet while sitting on a motorcycle. Hypothesis: James thinks that a young boy in a red shirt is wearing a helmet while sitting on a motorcycle.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: John sees that Charles thinks that a wet black lab with a red collar is standing in the water. Hypothesis: Charles thinks that John sees that a wet black lab with a red collar is standing in the water.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Taylor sees that a young girl with water wings leaps into a crowded pool. Hypothesis: Taylor sees that there are people in a pool.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: William suspects that Michael knows that this man dressed in white pants and blue shirt, is standing on a ledge in the snow. Hypothesis: Michael knows that this man dressed in white pants and blue shirt, is standing on a ledge in the snow.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Emma believes that John learns that a guy with piercings, tattoos and a mohawk is looking at the camera while lounging in a chair. Hypothesis: John learns that a guy with piercings, tattoos and a mohawk is looking at the camera while lounging in a chair.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Emma understands that Evelyn believes that an impoverished person, wearing a torn brown shirt and no shoes, is kneeling down along the banks of a trash infested body of water. Hypothesis: Evelyn believes that Emma understands that an impoverished person, wearing a torn brown shirt and no shoes, is kneeling down along the banks of a trash infested body of water.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Richard knows that John believes that a woman in black walks down the street in front of a graffited wall. Hypothesis: John believes that a woman in black walks down the street in front of a graffited wall.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Richard assumes that Isabella knows that a man in a white shirt, dark shorts and a red cap is standing in a small green rowboat with green oars, in the middle of what appears to be a shallow river, against a bank of tall dried grasses. Hypothesis: Richard assumes that a man in a white shirt, dark shorts and a red cap is standing in a small green rowboat with green oars, in the middle of what appears to be a shallow river, against a bank of tall dried grasses.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Charlotte believes that Sophia assumes that two people wearing green raincoats sit in blue bleachers that are otherwise empty. Hypothesis: Charlotte believes that two people wearing green raincoats sit in blue bleachers that are otherwise empty.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Emma suspects that Charlotte assumes that a man is holding a book standing in front of a chalkboard. Hypothesis: Charlotte assumes that a man is holding a book standing in front of a chalkboard.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: James believes that a dusty boy runs along a dirt path through the grass. Hypothesis: James believes that a boy is outside running.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Isabella learns that Olivia thinks that police officer wearing a brown uniform talks into a wireless microphone. Hypothesis: Olivia thinks that Isabella learns that police officer wearing a brown uniform talks into a wireless microphone.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Evelyn assumes that William assumes that a man and a woman are standing at the side of an inflatable climbing structure. Hypothesis: William assumes that a man and a woman are standing at the side of an inflatable climbing structure.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Amelia thinks that David assumes that the two dogs are playing catch with a red Frisbee. Hypothesis: David assumes that the two dogs are playing catch with a red Frisbee.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Ava recognizes that John suspects that a guy on Rollerblades, sliding across a rail. Hypothesis: John suspects that a guy on Rollerblades, sliding across a rail.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Charles thinks that John understands that a group of people examine a boat with an orange flag that is sitting on sand next to a body of water. Hypothesis: Charles thinks that a group of people examine a boat with an orange flag that is sitting on sand next to a body of water.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Taylor recognizes that Isabella assumes that a young girl poses with a trophy in the park. Hypothesis: Isabella assumes that Taylor recognizes that a young girl poses with a trophy in the park.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Olivia assumes that Evelyn assumes that two police officers in yellow reflective jackets are standing in a shopping zone having a conversation. Hypothesis: Evelyn assumes that two police officers in yellow reflective jackets are standing in a shopping zone having a conversation.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charlotte thinks that John assumes that repairing the roof of a school on the coastline. Hypothesis: Charlotte thinks that repairing the roof of a school on the coastline.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Amelia understands that David thinks that two people are setting up a photo shoot of a mobile in a white room. Hypothesis: David thinks that two people are setting up a photo shoot of a mobile in a white room.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Evelyn remembers that Amelia believes that a boy in a hat and glasses is playing a guitar. Hypothesis: Amelia believes that a boy in a hat and glasses is playing a guitar.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Michael understands that a man sitting on a motorcycle with a sunset directly behind him. Hypothesis: Sophia understands that a man sitting on his motorcycle as night begins to fall.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Amelia recognizes that Isabella thinks that a yellow race car sliding through a corner as spectators watch. Hypothesis: Isabella thinks that a yellow race car sliding through a corner as spectators watch.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Emma believes that Amelia knows that a lone bike rider navigating a rough terrain course through dirt with trees and grass in the background on a cloud free day. Hypothesis: Amelia knows that a lone bike rider navigating a rough terrain course through dirt with trees and grass in the background on a cloud free day.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charlotte thinks that Abigail believes that a group of people celebrate their asian culture. Hypothesis: Charlotte thinks that a group of people celebrate their asian culture.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Isabella learns that Evelyn thinks that a blond woman in a blue shirt looks on at an event. Hypothesis: Evelyn thinks that a blond woman in a blue shirt looks on at an event.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Emma learns that Olivia thinks that people are waiting in line to board a double decker bus. Hypothesis: Olivia thinks that Emma learns that people are waiting in line to board a double decker bus.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: David thinks that a bare-chested man fitting his head and arm into a toilet seat ring while spectators watch in a city. Hypothesis: John thinks that a contortionist fits his head and arms through a toilet seat.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Taylor remembers that Charlotte suspects that a man painting a sign onto his food cart. Hypothesis: Charlotte suspects that Taylor remembers that a man painting a sign onto his food cart.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: David believes that Thomas remembers that a rugby player running the ball between two downed opponents. Hypothesis: Thomas remembers that a rugby player running the ball between two downed opponents.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Isabella understands that a girl wearing pink pulls weeds. Hypothesis: Emma understands that the girl is gardening.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Ava suspects that Emma learns that a woman swings on a rope overlooking a red farmhouse and gated pastures and tall trees. Hypothesis: Emma learns that a woman swings on a rope overlooking a red farmhouse and gated pastures and tall trees.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Isabella thinks that William suspects that a boy wearing jean shorts, and a black and blue shirt, reading a book, sits on a rolling device up against a wall that says book fair, while other people stand around. Hypothesis: Isabella thinks that a boy wearing jean shorts, and a black and blue shirt, reading a book, sits on a rolling device up against a wall that says book fair, while other people stand around.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Olivia knows that Emma assumes that a boy in a red shirt is squatting in front of a circle of stones with a pot in the middle. Hypothesis: Emma assumes that Olivia knows that a boy in a red shirt is squatting in front of a circle of stones with a pot in the middle.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Ava suspects that William recognizes that two young men climb a tree overlooking a rural setting, with one of them out far on a limb and clutching a white helmet. Hypothesis: William recognizes that two young men climb a tree overlooking a rural setting, with one of them out far on a limb and clutching a white helmet.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Thomas understands that Joseph believes that a female swimmer wearing a pink costume comes out of the water in a pool, making a splash. Hypothesis: Joseph believes that Thomas understands that a female swimmer wearing a pink costume comes out of the water in a pool, making a splash.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Michael thinks that Charles assumes that a little boy in a blue shirt is putting some sunglasses up to a window while a lady watches him. Hypothesis: Michael thinks that a little boy in a blue shirt is putting some sunglasses up to a window while a lady watches him.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Abigail learns that Richard assumes that the coaching official and football player are talking in front a crowd and other team members. Hypothesis: Richard assumes that the coaching official and football player are talking in front a crowd and other team members.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: David suspects that Olivia thinks that a man is squatting on the ground. Hypothesis: David suspects that a man is squatting on the ground.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Thomas knows that Joseph suspects that three people are making transactions at an automated teller machine. Hypothesis: Joseph suspects that three people are making transactions at an automated teller machine.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Abigail thinks that 3 people are shopping in a market. Hypothesis: David thinks that there are people at a market.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Thomas assumes that Ava suspects that four children are dancing around a pole in a city street. Hypothesis: Ava suspects that four children are dancing around a pole in a city street.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: John believes that Richard suspects that man with a spider web & spiders painted on his face. Hypothesis: John believes that man with a spider web & spiders painted on his face.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Amelia assumes that Abigail assumes that a group of young adults are standing on a street in front of a brick wall with a tall wooden gate. Hypothesis: Abigail assumes that a group of young adults are standing on a street in front of a brick wall with a tall wooden gate.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Emma suspects that Joseph suspects that three women are dancing among the bamboo. Hypothesis: Joseph suspects that three women are dancing among the bamboo.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Abigail assumes that Olivia suspects that a man in a purple jersey is falling down while chasing a player in a green jersey playing soccer. Hypothesis: Olivia suspects that a man in a purple jersey is falling down while chasing a player in a green jersey playing soccer.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Olivia knows that Abigail believes that a woman with a red scarf, white shirt, and tan shorts is giving a shushing sign to the camera in front of shelves of books. Hypothesis: Abigail believes that a woman with a red scarf, white shirt, and tan shorts is giving a shushing sign to the camera in front of shelves of books.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Taylor recognizes that Isabella assumes that a group of people are outside working. Hypothesis: Isabella assumes that a group of people are outside working.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Thomas thinks that James assumes that a young man holds a hammer shaped object in the air with one hand and a similar shaped object in the other while making a funny expression. Hypothesis: Thomas thinks that a young man holds a hammer shaped object in the air with one hand and a similar shaped object in the other while making a funny expression.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Ava thinks that Thomas thinks that the Sooner football player carrying the ball is trying to avoid being tackled. Hypothesis: Thomas thinks that the Sooner football player carrying the ball is trying to avoid being tackled.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: William suspects that Olivia learns that a young female gymnast, wearing a sequined royal blue and white outfit, is lifting her right leg straight up in the air. Hypothesis: Olivia learns that a young female gymnast, wearing a sequined royal blue and white outfit, is lifting her right leg straight up in the air.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: John thinks that Isabella knows that boy in green pajamas play with his toy while his mother sits on the couch and watches him. Hypothesis: John thinks that boy in green pajamas play with his toy while his mother sits on the couch and watches him.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: John thinks that Taylor assumes that two distinguished older gentlemen stand outside a house, trees in background, both with white hair, the taller man having his arm about the other man's shoulder as they face the camera from behind their corrective lenses. Hypothesis: Taylor assumes that two distinguished older gentlemen stand outside a house, trees in background, both with white hair, the taller man having his arm about the other man's shoulder as they face the camera from behind their corrective lenses.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Isabella recognizes that William thinks that several people are bike riding. Hypothesis: William thinks that several people are bike riding.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Amelia understands that Sophia assumes that two girls stand in front of two men selling what appears to be concert merchandise while a woman holding a microphone interviews the men behind the merchandise counter. Hypothesis: Sophia assumes that two girls stand in front of two men selling what appears to be concert merchandise while a woman holding a microphone interviews the men behind the merchandise counter.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Michael believes that Amelia knows that the man in the brown shirt is holding the hand of the long-haired child in front of a painting. Hypothesis: Michael believes that the man in the brown shirt is holding the hand of the long-haired child in front of a painting.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: David recognizes that Richard believes that male wearing brown shorts and black t-shirt in his bedroom with his feet on the desk talking on the phone. Hypothesis: Richard believes that David recognizes that male wearing brown shorts and black t-shirt in his bedroom with his feet on the desk talking on the phone.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Richard assumes that Abigail thinks that a group of people stares at a wall that is filled with drawings in a building. Hypothesis: Abigail thinks that a group of people stares at a wall that is filled with drawings in a building.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charlotte thinks that James sees that a group of individuals are sitting together in a room. Hypothesis: Charlotte thinks that a group of individuals are sitting together in a room.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Emma suspects that a street performer wearing sunglasses and painted in bronze colored paint is acting like he is filming with an old-fashioned prop film camera. Hypothesis: Amelia suspects that a street performer is acting out a scene.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Thomas believes that Taylor suspects that a large man is sitting in front of a fountain statue while talking on a phone. Hypothesis: Thomas believes that a large man is sitting in front of a fountain statue while talking on a phone.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: William sees that Isabella thinks that a child with wet hair is holding a butterfly decorated beach ball. Hypothesis: Isabella thinks that a child with wet hair is holding a butterfly decorated beach ball.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: John assumes that Ava learns that 3 women run in a marathon with the crowd in the background, one with the label Galina and another the label Inga, and the 3rd running close behind them in blue. Hypothesis: Ava learns that 3 women run in a marathon with the crowd in the background, one with the label Galina and another the label Inga, and the 3rd running close behind them in blue.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: John sees that Richard suspects that a person is surfing a big wave. Hypothesis: Richard suspects that John sees that a person is surfing a big wave.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Olivia believes that Amelia understands that in a small village a Man sets sail along the Swamp. Hypothesis: Olivia believes that in a small village a Man sets sail along the Swamp.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Olivia sees that Robert suspects that young boy smiles at the camera from the tire swing. Hypothesis: Robert suspects that young boy smiles at the camera from the tire swing.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: William learns that David believes that men wearing life vests speed across a body of water in an orange boat. Hypothesis: David believes that men wearing life vests speed across a body of water in an orange boat.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: James thinks that William believes that a man flying out of a river raft filled with 6 other people. Hypothesis: William believes that a man flying out of a river raft filled with 6 other people.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Abigail remembers that William suspects that the young man in the plaid shirt is sitting on a chair that is out in the yard. Hypothesis: William suspects that the young man in the plaid shirt is sitting on a chair that is out in the yard.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Robert learns that a young man does tricks on his skateboard. Hypothesis: Robert learns that a youth engages in athleticism.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Emma believes that Isabella understands that a motorist gets some air over a rough hill. Hypothesis: Emma believes that a motorist gets some air over a rough hill.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Emma thinks that James thinks that a man leads the way in a race. Hypothesis: James thinks that a man leads the way in a race.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Ava thinks that Charles remembers that a soccer player with black and red striped uniform gets ready to kick the soccer ball. Hypothesis: Charles remembers that a soccer player with black and red striped uniform gets ready to kick the soccer ball.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: David assumes that Sophia assumes that there is a woman in a white tank top and camouflage pants with a big black belt on a stage holding a microphone. Hypothesis: Sophia assumes that there is a woman in a white tank top and camouflage pants with a big black belt on a stage holding a microphone.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charlotte thinks that Sophia recognizes that a smiling man and a baby girl posing for photo. Hypothesis: Sophia recognizes that a smiling man and a baby girl posing for photo.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: William learns that Isabella believes that trays of freshly-baked pretzels are being loaded onto a delivery truck. Hypothesis: Isabella believes that trays of freshly-baked pretzels are being loaded onto a delivery truck.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: William recognizes that three children, two boys and a girl, are playing with the swings on a playground with residential houses in the background. Hypothesis: John recognizes that the children are less than 20 yrs old.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Amelia knows that Michael thinks that a lab dog is standing on a fallen tree trunk with a guy in the background. Hypothesis: Michael thinks that a lab dog is standing on a fallen tree trunk with a guy in the background.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Michael suspects that Charles learns that eight tourists stand at a railing looking at an attraction. Hypothesis: Michael suspects that eight tourists stand at a railing looking at an attraction.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Robert knows that children receiving places at an award ceremony. Hypothesis: Robert knows that an award ceremony is occurring.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Taylor assumes that Thomas understands that the man in camouflage pants telephones 911 for the man in black sneakers who is lying on the ground having a heart attack. Hypothesis: Taylor assumes that the man in camouflage pants telephones 911 for the man in black sneakers who is lying on the ground having a heart attack.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Robert thinks that Richard knows that many people have decided to take a rest on the steps. Hypothesis: Richard knows that many people have decided to take a rest on the steps.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: John recognizes that Sophia thinks that a man is painting letters using a stencil onto a round stand-up sign that is lying sideways. Hypothesis: Sophia thinks that a man is painting letters using a stencil onto a round stand-up sign that is lying sideways.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Charlotte sees that a blond woman in a white shirt demonstrates her talents to a crowd. Hypothesis: Charlotte sees that a woman performs for the crowd.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Robert suspects that Amelia sees that san Fransisco 49ers football field with cheerleaders and a packed stadium. Hypothesis: Robert suspects that san Fransisco 49ers football field with cheerleaders and a packed stadium.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Amelia thinks that Emma remembers that four people walk across stepping stones in a body of water. Hypothesis: Amelia thinks that four people walk across stepping stones in a body of water.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Abigail suspects that David recognizes that a man dances with a woman in a white egyptian costume. Hypothesis: Abigail suspects that a man dances with a woman in a white egyptian costume.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Abigail thinks that Robert assumes that an expensive car is parked in what looks like a car-wash with a man standing at the open passenger door side. Hypothesis: Abigail thinks that an expensive car is parked in what looks like a car-wash with a man standing at the open passenger door side.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: John remembers that Robert thinks that a man with a beer in his hand listens to a woman talk. Hypothesis: Robert thinks that a man with a beer in his hand listens to a woman talk.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Charles thinks that Olivia understands that three children are shooting guns in the woods. Hypothesis: Olivia understands that three children are shooting guns in the woods.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Isabella believes that a small girl in a green shirt plays on a swing. Hypothesis: Isabella believes that girl plays swing.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: James assumes that an elderly male is blowing air into an object. Hypothesis: James assumes that an elderly male is blowing air inyto an object.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: James suspects that Michael assumes that the basketball is in the hands of the guy with the red shirts the others are trying to steal the ball to score for their team. Hypothesis: James suspects that the basketball is in the hands of the guy with the red shirts the others are trying to steal the ball to score for their team.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Joseph suspects that Olivia thinks that a man in a red delivery truck is talking to someone is a black coat. Hypothesis: Olivia thinks that a man in a red delivery truck is talking to someone is a black coat.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Evelyn knows that James suspects that a man, wearing a white hate and sunglasses, is sitting in a white truck that says \"Coast Gas\". Hypothesis: James suspects that Evelyn knows that a man, wearing a white hate and sunglasses, is sitting in a white truck that says \"Coast Gas\".",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Olivia learns that Robert assumes that a man dressed in a brown shirt and tan shorts is down on one knee looking at some type of machinery. Hypothesis: Robert assumes that a man dressed in a brown shirt and tan shorts is down on one knee looking at some type of machinery.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: David recognizes that Charles believes that a snowboarder wearing a green hat is riding along a metal railing. Hypothesis: Charles believes that David recognizes that a snowboarder wearing a green hat is riding along a metal railing.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charles thinks that Emma thinks that the young girl is airborne as she falls into the lake. Hypothesis: Charles thinks that the young girl is airborne as she falls into the lake.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Olivia understands that Richard suspects that a silhouette stands at the top of a bowling lane as the ball is about to impact the pins while neon lights race overhead. Hypothesis: Richard suspects that Olivia understands that a silhouette stands at the top of a bowling lane as the ball is about to impact the pins while neon lights race overhead.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: David recognizes that children, including one with a painted face, pet tiny turtles that are crawling in the green grass. Hypothesis: Charles recognizes that turtles are crawling in the green grass.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Sophia learns that Isabella assumes that a man wearing a black cap is suspended in the air on a swing, as children are swinging on a swing set. Hypothesis: Isabella assumes that a man wearing a black cap is suspended in the air on a swing, as children are swinging on a swing set.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Charles believes that two teams of men are playing basketball on a court in an empty stadium. Hypothesis: Ava believes that the men are playing basketball with no audience.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Abigail thinks that Joseph sees that man in plaid shirt sings into microphone while playing an acoustic guitar. Hypothesis: Abigail thinks that man in plaid shirt sings into microphone while playing an acoustic guitar.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Charlotte suspects that David remembers that bicycles are littering the road as boy pull door. Hypothesis: David remembers that bicycles are littering the road as boy pull door.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Richard thinks that Thomas knows that men are playing rugby while covered in mud. Hypothesis: Richard thinks that men are playing rugby while covered in mud.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Joseph thinks that this Man, with a Red& White Shirt has Water Bottles on this White Truck. Hypothesis: Joseph thinks that the guy has bottles on the truck.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Ava assumes that Isabella remembers that commuters wait for to cross a street. Hypothesis: Ava assumes that commuters wait for to cross a street.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Charles understands that a person with dark hair in a white shirt is sitting in a chair in water with a \"swim at your own risk\" sign on the wall. Hypothesis: Charles understands that a person sits in a chair in water.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Michael recognizes that a group of dogs stand in the snow. Hypothesis: Charlotte recognizes that there are animals outdoors.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Joseph understands that a man and a woman stand in front of a Christmas tree contemplating a single thought. Hypothesis: Joseph understands that two people stand lost in thought in front of a tree.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: James believes that Emma recognizes that a man dressed in a surfing shirt and blue and white shorts skillfully guides his yellow board with its multicolored sail over the crest of an ocean wave, flipping over in the process. Hypothesis: James believes that a man dressed in a surfing shirt and blue and white shorts skillfully guides his yellow board with its multicolored sail over the crest of an ocean wave, flipping over in the process.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Robert thinks that Sophia understands that a man is renovating a room. Hypothesis: Sophia understands that a man is renovating a room.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Richard believes that Abigail assumes that a photographer carefully sets up his camera on a tripod and prepares to take the shot amidst the scenic background. Hypothesis: Abigail assumes that a photographer carefully sets up his camera on a tripod and prepares to take the shot amidst the scenic background.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Ava thinks that James remembers that a boy plays with a motorized car next to a dirty street lined with real cars. Hypothesis: James remembers that a boy plays with a motorized car next to a dirty street lined with real cars.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: William knows that the baseball players near the pitching mound are celebrating as the batsman walks away. Hypothesis: Thomas knows that the batsman is on a different team than the others around the pitching mound.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Michael thinks that John assumes that asian individuals are taking pictures of some unidentified thing. Hypothesis: John assumes that asian individuals are taking pictures of some unidentified thing.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Evelyn suspects that James sees that a man wearing a black hat and coat makes a face with a crowd behind him. Hypothesis: Evelyn suspects that a man wearing a black hat and coat makes a face with a crowd behind him.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Thomas believes that Olivia knows that two women, standing at a fence, are each talking on their cellphones, while two men sitting on the opposite side of the fence are having a conversation. Hypothesis: Olivia knows that two women, standing at a fence, are each talking on their cellphones, while two men sitting on the opposite side of the fence are having a conversation.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Evelyn suspects that James understands that people are sitting in a cheery Mexican restaurant. Hypothesis: James understands that people are sitting in a cheery Mexican restaurant.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Evelyn recognizes that John assumes that a toddler, sitting next to another girl who is slightly older, is using a bubble machine to blow a large bubble into the air. Hypothesis: John assumes that a toddler, sitting next to another girl who is slightly older, is using a bubble machine to blow a large bubble into the air.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Joseph thinks that a boy in red and a girl pink are walking through a low cut field. Hypothesis: Evelyn thinks that kids are walking in a field.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Joseph believes that David sees that a man in a green shirt is getting his feet wet in front of a wall showing a closeup picture of a face. Hypothesis: David sees that a man in a green shirt is getting his feet wet in front of a wall showing a closeup picture of a face.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: David remembers that Taylor assumes that a man in the bucket of a chery-picker cuts down branches using a chainsaw at the end of a long pole. Hypothesis: Taylor assumes that David remembers that a man in the bucket of a chery-picker cuts down branches using a chainsaw at the end of a long pole.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charles believes that a dog is running parallel with the ocean waves. Hypothesis: Charles believes that a dog is on the beach.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: James sees that David assumes that an Asian woman is standing on a path with a basket on her head looking into a mirror she is holding in her hand. Hypothesis: David assumes that an Asian woman is standing on a path with a basket on her head looking into a mirror she is holding in her hand.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Sophia recognizes that a person wearing orange stockings and chunky boots has her legs stretched out on the grass. Hypothesis: Sophia recognizes that a person is wearing boots.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Ava sees that Olivia thinks that a man stands with his arms out inside a large green piece of equipment. Hypothesis: Olivia thinks that Ava sees that a man stands with his arms out inside a large green piece of equipment.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: James assumes that Thomas believes that small girl in a pink dress is playing electronic drum pads with sticks. Hypothesis: Thomas believes that small girl in a pink dress is playing electronic drum pads with sticks.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: James learns that Richard assumes that two men in suits standing in front of a bus, one is wearing a medal. Hypothesis: Richard assumes that two men in suits standing in front of a bus, one is wearing a medal.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: John thinks that Robert thinks that a boy rides his skateboard at the park. Hypothesis: Robert thinks that a boy rides his skateboard at the park.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charles thinks that Abigail assumes that a girl in a costume is performing a dance as other girls in costumes watch. Hypothesis: Abigail assumes that a girl in a costume is performing a dance as other girls in costumes watch.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Michael recognizes that David believes that a young man is playing a blue guitar. Hypothesis: David believes that Michael recognizes that a young man is playing a blue guitar.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Richard understands that a young boy poses behind the netting of an enclosed play area while three other children play. Hypothesis: Richard understands that a boy poses in front of children playing.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Robert suspects that Evelyn knows that a man wearing red ski pants, a black jacket, and a white helmet is skiing down a mountain. Hypothesis: Evelyn knows that a man wearing red ski pants, a black jacket, and a white helmet is skiing down a mountain.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charles believes that Taylor suspects that a woman in a yellow skirt is dancing with a man in a white shirt, with another couple dancing in the background. Hypothesis: Charles believes that a woman in a yellow skirt is dancing with a man in a white shirt, with another couple dancing in the background.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Isabella remembers that a shirtless man is painting over a graffiti filled wall with a paint roller. Hypothesis: David remembers that a man is painting a wall.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Amelia learns that James believes that a young child plays on a beach next to an empty chair. Hypothesis: James believes that a young child plays on a beach next to an empty chair.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Abigail assumes that Charlotte assumes that a girl in a red and white uniform is swinging a bat. Hypothesis: Charlotte assumes that a girl in a red and white uniform is swinging a bat.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Evelyn suspects that Taylor remembers that a man in a blue shirt and a woman in a pink skirt sit around other people in the background. Hypothesis: Evelyn suspects that a man in a blue shirt and a woman in a pink skirt sit around other people in the background.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Ava thinks that Olivia sees that a woman in a black and white shirt is sitting in a chair with an animated expression on her face. Hypothesis: Ava thinks that a woman in a black and white shirt is sitting in a chair with an animated expression on her face.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: David believes that Emma recognizes that a man takes a picture of another two men in a crowd. Hypothesis: David believes that a man takes a picture of another two men in a crowd.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Sophia remembers that Taylor assumes that a barber in a sports themed barber shop waits for his next customer to arrive. Hypothesis: Taylor assumes that a barber in a sports themed barber shop waits for his next customer to arrive.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Abigail suspects that Thomas knows that a man in an orange hat holds a ball. Hypothesis: Thomas knows that a man in an orange hat holds a ball.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Robert believes that Charles learns that four women and two men are in a kitchen, cooking near a long table with a white tablecloth. Hypothesis: Charles learns that four women and two men are in a kitchen, cooking near a long table with a white tablecloth.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: James recognizes that Amelia suspects that two men stand in a lift as four others, all dressed in black and bright yellow stripes, look up on them. Hypothesis: Amelia suspects that two men stand in a lift as four others, all dressed in black and bright yellow stripes, look up on them.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Charles assumes that two women are tending to their herd of animals including cows and goats near a building made primarily of stone. Hypothesis: Charles assumes that the two women are taking care of a herd of animals.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Olivia knows that people checking out a car with all its doors open in a parking lot in the city. Hypothesis: Olivia knows that a car door has not been shut.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Richard learns that Evelyn believes that a man and a woman are lying together on a grassy park field near a waterfront. Hypothesis: Evelyn believes that a man and a woman are lying together on a grassy park field near a waterfront.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: John suspects that Taylor suspects that a man in a black business suit stands upright next to a man wearing blue and leaning against a railing. Hypothesis: Taylor suspects that a man in a black business suit stands upright next to a man wearing blue and leaning against a railing.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Evelyn suspects that a balding, heavyset man and a dog are resting beside an ornate monument featuring a greenish statue of a man and a woman. Hypothesis: Evelyn suspects that there are both people and animals in this picture.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Isabella suspects that William assumes that the man in the black hat has his back to a theater sign. Hypothesis: William assumes that the man in the black hat has his back to a theater sign.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charles learns that a man looks back while laughing and walking. Hypothesis: William learns that a man is looks behind his shoulder to laugh.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Joseph thinks that Olivia understands that two guys walking, one carrying a skateboard. Hypothesis: Olivia understands that two guys walking, one carrying a skateboard.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Robert suspects that Richard believes that a brown dog with a yellow toy in his mouth is jumping off the grassy ground. Hypothesis: Richard believes that a brown dog with a yellow toy in his mouth is jumping off the grassy ground.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: John suspects that Emma suspects that a teenager blows a whistle and wears white face paint, earmuffs, and a yellow hat while another teen watches. Hypothesis: John suspects that a teenager blows a whistle and wears white face paint, earmuffs, and a yellow hat while another teen watches.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Olivia recognizes that Sophia believes that bubbles surround a statue in the middle of a street. Hypothesis: Sophia believes that bubbles surround a statue in the middle of a street.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Michael suspects that Charles believes that a man wearing a headscarf and loincloth is laying and smoothing an asphalt surface near a forest on a hot day. Hypothesis: Michael suspects that a man wearing a headscarf and loincloth is laying and smoothing an asphalt surface near a forest on a hot day.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: James knows that Evelyn thinks that two workers in green uniforms are standing in an alleyway. Hypothesis: Evelyn thinks that two workers in green uniforms are standing in an alleyway.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: John assumes that Michael believes that a young girl with a white long-sleeved shirt on helps a young boy brown long-sleeved shirt on with tying his shoelaces. Hypothesis: Michael believes that a young girl with a white long-sleeved shirt on helps a young boy brown long-sleeved shirt on with tying his shoelaces.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Amelia suspects that a man crouches down next to a motorcycle. Hypothesis: Amelia suspects that a man is down beside a motorcycle.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Taylor suspects that Isabella recognizes that a young Asian child stands at the top of some steps and does n't seem to notice the person taking their picture. Hypothesis: Isabella recognizes that a young Asian child stands at the top of some steps and does n't seem to notice the person taking their picture.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: John thinks that Olivia understands that a man wielding an electric razor is gleefully shaving away another man's hair. Hypothesis: John thinks that a man wielding an electric razor is gleefully shaving away another man's hair.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Abigail learns that Taylor suspects that a person in a red and tan coat is snowboarding off a hill of snow. Hypothesis: Taylor suspects that a person in a red and tan coat is snowboarding off a hill of snow.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Richard learns that Isabella thinks that a man looks mysterious in a blue shirt and a red truck for a company called Wilbert. Hypothesis: Isabella thinks that a man looks mysterious in a blue shirt and a red truck for a company called Wilbert.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Robert believes that Amelia assumes that a young man in an orange shirt, maneuvers a skateboard at the top of a ramp. Hypothesis: Robert believes that a young man in an orange shirt, maneuvers a skateboard at the top of a ramp.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Isabella remembers that a woman in a white apron prepares various meats on a large grill. Hypothesis: Isabella remembers that a woman is preparing meat.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Robert sees that Isabella believes that a man with a white beard speaks into a microphone wearing a long-sleeved gray button down shirt. Hypothesis: Isabella believes that Robert sees that a man with a white beard speaks into a microphone wearing a long-sleeved gray button down shirt.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Joseph knows that Ava thinks that a man balances a unicycle using his face and both hands. Hypothesis: Ava thinks that Joseph knows that a man balances a unicycle using his face and both hands.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charlotte assumes that David thinks that a street performer is entertaining a gathered audience with the help of a young boy. Hypothesis: Charlotte assumes that a street performer is entertaining a gathered audience with the help of a young boy.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Joseph assumes that Isabella believes that a dog is walking down steps. Hypothesis: Isabella believes that a dog is walking down steps.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Isabella believes that Robert suspects that a man wearing a hat and boots is digging for something in the snow. Hypothesis: Robert suspects that a man wearing a hat and boots is digging for something in the snow.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Taylor recognizes that James suspects that a woman in a blue apron is holding a container of ice cream. Hypothesis: James suspects that Taylor recognizes that a woman in a blue apron is holding a container of ice cream.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: John suspects that Robert thinks that a man in jeans and a brown shirt jumps high in the air in a living room that has a fireplace and wooden floor. Hypothesis: John suspects that a man in jeans and a brown shirt jumps high in the air in a living room that has a fireplace and wooden floor.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Richard suspects that James recognizes that people dresses in business clothing are walking by while one man with a tie on is standing still and talking on his cellular phone. Hypothesis: Richard suspects that people dresses in business clothing are walking by while one man with a tie on is standing still and talking on his cellular phone.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Thomas recognizes that a boy in a green shirt surrounded by toys and another boy, wearing a blue shirt with penguins, to his left. Hypothesis: Thomas recognizes that two boys sit in a classroom at their desks.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Robert suspects that a young girl with purple pants, a striped jacket, and a white hat is climbing up a ladder made of logs. Hypothesis: Ava suspects that a girl is climbing up a ladder.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Thomas suspects that Joseph remembers that a boy with no shirt is standing in water. Hypothesis: Thomas suspects that a boy with no shirt is standing in water.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Charles thinks that Taylor learns that a half dressed man is sleeping on the sidewalk. Hypothesis: Taylor learns that a half dressed man is sleeping on the sidewalk.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Evelyn suspects that Amelia knows that a person wearing a red shirt is falling off a white surfboard. Hypothesis: Amelia knows that a person wearing a red shirt is falling off a white surfboard.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Joseph understands that Charlotte suspects that a young girl in a white t-shirt and a blue skirt wearing a light colored hat stands in a river next to a big rock. Hypothesis: Charlotte suspects that Joseph understands that a young girl in a white t-shirt and a blue skirt wearing a light colored hat stands in a river next to a big rock.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Taylor knows that Olivia suspects that a woman with red-hair and large tattoo is sitting in a chair outside. Hypothesis: Olivia suspects that a woman with red-hair and large tattoo is sitting in a chair outside.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: James suspects that John believes that a skateboarder does a trick in midair. Hypothesis: James suspects that a skateboarder does a trick in midair.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Robert remembers that a group of children in costumes are on a stage with red curtains. Hypothesis: Robert remembers that a group of children are on stage.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Ava sees that Emma thinks that two people are participating in the sport fencing. Hypothesis: Emma thinks that two people are participating in the sport fencing.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: William assumes that John thinks that four men are sitting in front of two large windows; one man is playing a guitar, one is playing the bongo drums, and two are sitting back without instruments. Hypothesis: William assumes that four men are sitting in front of two large windows; one man is playing a guitar, one is playing the bongo drums, and two are sitting back without instruments.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Abigail sees that Charlotte thinks that three people are posing on the side of a mountain. Hypothesis: Charlotte thinks that three people are posing on the side of a mountain.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Charlotte assumes that Evelyn believes that two men help each other cut a sheet of plastic. Hypothesis: Charlotte assumes that two men help each other cut a sheet of plastic.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: William assumes that Emma sees that a dog with a ball in his mouth running down a road covered in leaves. Hypothesis: Emma sees that a dog with a ball in his mouth running down a road covered in leaves.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Evelyn believes that Emma recognizes that children are petting small turtles in the grass. Hypothesis: Evelyn believes that children are petting small turtles in the grass.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Michael thinks that Thomas recognizes that man in white sweater looks from his press box onto the pitch. Hypothesis: Michael thinks that man in white sweater looks from his press box onto the pitch.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Joseph recognizes that a young boy runs across a road in front of a sky blue building with barred windows. Hypothesis: Joseph recognizes that a boy is running infront of a building.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Isabella believes that Ava suspects that three men are sitting on a beach dressed in orange with refuse carts in front of them. Hypothesis: Isabella believes that three men are sitting on a beach dressed in orange with refuse carts in front of them.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Isabella thinks that Charlotte sees that i am squatting on a dock, looking into a lake. Hypothesis: Charlotte sees that i am squatting on a dock, looking into a lake.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Isabella knows that Richard believes that two men play basketball. Hypothesis: Richard believes that two men play basketball.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Ava believes that Olivia thinks that a man is celebrating his victory while smiling and shooting champagne in the air with his teammate. Hypothesis: Ava believes that a man is celebrating his victory while smiling and shooting champagne in the air with his teammate.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charlotte recognizes that James suspects that a man wearing shorts looks at his cellphone while a woman walks outside a small building. Hypothesis: James suspects that Charlotte recognizes that a man wearing shorts looks at his cellphone while a woman walks outside a small building.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: James understands that Amelia thinks that several people are laying on the floor sleeping covered by blankets. Hypothesis: Amelia thinks that James understands that several people are laying on the floor sleeping covered by blankets.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Abigail knows that Joseph thinks that a boy pushing a girl on a toy SUV. Hypothesis: Joseph thinks that a boy pushing a girl on a toy SUV.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Thomas believes that four men are posing behind a cash register. Hypothesis: Ava believes that four men are posing.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charles believes that a man is dancing in front of a band. Hypothesis: John believes that a man is dancing.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Taylor sees that David thinks that a young man appears bored in a restaurant. Hypothesis: David thinks that a young man appears bored in a restaurant.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Thomas assumes that Robert believes that a women's volleyball team plays in a brown and green gymnasium. Hypothesis: Robert believes that a women's volleyball team plays in a brown and green gymnasium.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Michael suspects that Ava thinks that a Young girl wearing a blue ski cap and red and gray two tone jacket stands between two bits of ice. Hypothesis: Michael suspects that a Young girl wearing a blue ski cap and red and gray two tone jacket stands between two bits of ice.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charlotte assumes that Evelyn assumes that a woman in a yellow shirt is carrying two full red grocery bags. Hypothesis: Charlotte assumes that a woman in a yellow shirt is carrying two full red grocery bags.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Joseph knows that James assumes that a boy and girl child swing together on a swing set. Hypothesis: James assumes that Joseph knows that a boy and girl child swing together on a swing set.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: James suspects that Michael recognizes that a woman wearing a black dress and green sweater is walking down the street looking at her cellphone. Hypothesis: Michael recognizes that a woman wearing a black dress and green sweater is walking down the street looking at her cellphone.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Richard assumes that Robert learns that two dogs are running next to each other on a grassy hill. Hypothesis: Robert learns that two dogs are running next to each other on a grassy hill.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Emma believes that Charlotte learns that a man holds up a sign that reads \"tattoo\" as many people walk near him. Hypothesis: Emma believes that a man holds up a sign that reads \"tattoo\" as many people walk near him.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Amelia knows that Ava believes that a man in a black jacket standing beside a green mailbox thoroughly soiled by a group of pigeons that are nearby. Hypothesis: Ava believes that Amelia knows that a man in a black jacket standing beside a green mailbox thoroughly soiled by a group of pigeons that are nearby.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Abigail assumes that James thinks that a little girl carries a younger girl on the sidewalk. Hypothesis: James thinks that a little girl carries a younger girl on the sidewalk.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Ava believes that James sees that an American wrestler in a purple singlet wrestlers an opponent. Hypothesis: James sees that an American wrestler in a purple singlet wrestlers an opponent.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Olivia understands that Charles believes that a man with long red-hair, a brown shirt and plaid pants sells fruit in a market. Hypothesis: Charles believes that Olivia understands that a man with long red-hair, a brown shirt and plaid pants sells fruit in a market.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Sophia believes that Richard believes that the small dog is running across the lawn. Hypothesis: Sophia believes that the small dog is running across the lawn.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Sophia knows that Ava assumes that a referee with a whistle in his mouth points to the right and watches as a player with the basketball bends down with a defensive player. Hypothesis: Ava assumes that a referee with a whistle in his mouth points to the right and watches as a player with the basketball bends down with a defensive player.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Ava assumes that Evelyn knows that a bicyclist is attempting a trick on a wire in a tropical location. Hypothesis: Ava assumes that a bicyclist is attempting a trick on a wire in a tropical location.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Charles thinks that two teen boys in school clothes are walking with something in a garbage bag. Hypothesis: James thinks that two boys are walking together carrying a bag.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: William assumes that Thomas assumes that three women talk to each other next to another woman sitting on a motorcycle. Hypothesis: William assumes that three women talk to each other next to another woman sitting on a motorcycle.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charles knows that Emma believes that a motorcyclist is flying through the air above a dirt path. Hypothesis: Emma believes that a motorcyclist is flying through the air above a dirt path.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Charlotte assumes that Michael suspects that an older man in a light green shirt and dark green pants holds the hand of an older woman as they pass an outside eatery with teal umbrellas. Hypothesis: Charlotte assumes that an older man in a light green shirt and dark green pants holds the hand of an older woman as they pass an outside eatery with teal umbrellas.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: William understands that lady in black skirt is getting excited. Hypothesis: William understands that a lady is excited.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Emma remembers that a group of young men are dumping soil onto the ground of their backyard. Hypothesis: James remembers that the young men are working outside.",
+        "target_scores": {
+            "entailment": 0,
+            "non-entailment": 1
+        }
+    },
+    {
+        "input": "Premise: Charlotte thinks that two workers stretch the canvas of the advertising billboard for free range chickens to be appended on a billboard. Hypothesis: Charlotte thinks that two men work outdoors.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    },
+    {
+        "input": "Premise: Taylor understands that Isabella assumes that a young woman wearing a yellow sweater and black pants is ice skating outdoors. Hypothesis: Isabella assumes that a young woman wearing a yellow sweater and black pants is ice skating outdoors.",
+        "target_scores": {
+            "entailment": 1,
+            "non-entailment": 0
+        }
+    }
+]
