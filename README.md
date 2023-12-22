@@ -23,6 +23,9 @@
       |- llama-fewshot.ipynb (for improved and baseline fewshot inference)
       |- llama-confidence-sampling.ipynb (multi-turn CoT confidence based sampling)
       |- llama-baseline.ipynb (reproduction of baseline for LLaMA2)
+   -GPT
+      |- GPT-baseline.ipynb(reproduction of baseline for GPT3.5/GPT4)
+      |- GPT-class-balanced-right-wrong-sampling.ipynb (class and inference based balanced sampling)
 - data: data splits to reproduce
     |- train_entail.json (entailment)
     |- val_entail.json
@@ -30,6 +33,9 @@
     |- train_hyper.json (hyperbaton)
     |- val_hyper.json
     |- test_hyper.json
+    |- train_implicatures.json (implicatures)
+    |- val_implicatures.json
+    |- test_implicatures.json
 - requirements.txt
 ```
 
