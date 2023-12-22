@@ -40,9 +40,22 @@
 ```
 
 ## Results
-![Results for baseline reproduction](images/baseline-reproduction.png)
-![Results for confidence-based sampling](images/confidence-based.png)
-![Results for prediction-based sampling](images/prediction-based.png)
-![Results for improved-fewshot](images/improved-fewshot.png)
+
+<div align="center">
+  <img src="images/baseline-reproduction.png" alt="Results for baseline reproduction">
+</div>
+<div align="center">
+  <img src="images/confidence-based.png" alt="Results for confidence-based sampling">
+</div>
+<div align="center">
+  <img src="images/prediction-based.png" alt="Results for prediction-based sampling">
+</div>
+<div align="center">
+  <img src="images/improved-fewshot.png" alt="Results for improved-fewshot">
+</div>
+
+
+
+
 
 
